@@ -4,7 +4,7 @@
 
 ## Download for Windows
 
-Open [GitHub Releases](../../releases/latest) and download `MountAlpha-Binance-Setup.exe` and `SHA256SUMS.txt` from the same release. This is the English Binance edition. For the Chinese OKX edition, see [MountAlpha OKX Edition](https://github.com/hkv-ink/bitcoin-trading-bot-okx).
+[Download MountAlpha-Binance-Setup.exe](https://github.com/hkv-ink/bitcoin-trading-bot-binance/releases/latest/download/MountAlpha-Binance-Setup.exe). Find the version history and `SHA256SUMS.txt` on the [latest release page](https://github.com/hkv-ink/bitcoin-trading-bot-binance/releases/latest). This is the English Binance edition. For the Chinese OKX edition, see [MountAlpha OKX Edition](https://github.com/hkv-ink/bitcoin-trading-bot-okx).
 
 ## Installation and First Launch
 
@@ -26,3 +26,5 @@ Open [GitHub Releases](../../releases/latest) and download `MountAlpha-Binance-S
 ## Support
 
 Use **Support** inside the app for compatibility and licensing questions. Include the application version and the problem description, with account identifiers and secrets removed.
+
+The open-source support companion's [corresponding source, build instructions and license notices](https://github.com/hkv-ink/bitcoin-trading-bot-binance/releases/latest/download/MountAlpha-Binance-Support-Source.zip) are a separate attachment. They do not include the proprietary trading strategy.
