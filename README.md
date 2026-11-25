@@ -4,6 +4,8 @@
 
 ## Download for Windows
 
+[English download and installation guide](https://hkv-ink.github.io/bitcoin-trading-bot-binance/)
+
 [Download MountAlpha-Binance-Setup.exe](https://github.com/hkv-ink/bitcoin-trading-bot-binance/releases/latest/download/MountAlpha-Binance-Setup.exe). Find the version history and `SHA256SUMS.txt` on the [latest release page](https://github.com/hkv-ink/bitcoin-trading-bot-binance/releases/latest). This is the English Binance edition. For the Chinese OKX edition, see [MountAlpha OKX Edition](https://github.com/hkv-ink/bitcoin-trading-bot-okx).
 
 ## Bitcoin and Ethereum on Binance Futures
